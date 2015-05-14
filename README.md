@@ -1,4 +1,4 @@
 # config-rep
 My first repository on GitHub
 ===
-Very useful tool
+Very useful tool to store configs!
